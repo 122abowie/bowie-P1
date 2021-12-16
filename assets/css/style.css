@@ -142,7 +142,7 @@ h1, h2, h3, h4, h5, h6 {
 # Navigation Menu
 --------------------------------------------------------------*/
 /**
-* Desktop Navigation 
+* Desktop Navigation
 */
 .nav-menu {
   padding: 0;
@@ -154,8 +154,8 @@ h1, h2, h3, h4, h5, h6 {
   list-style: none;
 }
 .nav-menu > ul > li {
-  position: relative;
   white-space: nowrap;
+  position: relative;
 }
 .nav-menu a, .nav-menu a:focus {
   display: flex;
@@ -204,7 +204,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /**
-* Mobile Navigation 
+* Mobile Navigation
 */
 .mobile-nav-toggle {
   position: fixed;
